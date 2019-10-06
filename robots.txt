@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /images/
+Disallow: /download/
+
+Sitemap: http://www.thecircuits.co.uk/sitemap.xml
