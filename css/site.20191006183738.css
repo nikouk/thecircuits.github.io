@@ -27,7 +27,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .pos{position:relative;margin-top:0;}
 .size{width:100%;min-width:960px;min-height:327px;}
 .cont{z-index:1;pointer-events:none;border:0;overflow:hidden;}
-.fixed{background-attachment:fixed;background-image:url(../images/cnv00054-960.jpg);background-color:rgb(184,200,210);background-repeat:no-repeat;background-position:0 50%;background-size:cover;background-clip:padding-box;}
+.fixed{background-attachment:fixed;background-image:url(../images/cnv00054-960.jpg);background-color:rgb(184,200,210);background-repeat:no-repeat;background-position:50% 50%;background-size:cover;background-clip:padding-box;}
 .pos-2{position:relative;margin-top:136px;}
 .vis-2{display:block;vertical-align:top;}
 .section{min-width:960px;width:960px;margin-left:auto;margin-right:auto;}
@@ -104,10 +104,10 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .fixed{background-image:url(../images/cnv00054-1920.jpg);background-attachment:fixed;}
 }
 @media (min-width:960px) {
-.fixed{background-image:url(../images/cnv00054-1200-1.jpg);background-attachment:fixed;}
+.fixed{background-image:url(../images/cnv00054-1200.jpg);background-attachment:fixed;}
 }
 @media (min-width:960px) and (-webkit-min-device-pixel-ratio:2),(min-width:960px) and (min-resolution:192dpi) {
-.fixed{background-image:url(../images/cnv00054-2400-1.jpg);background-attachment:fixed;}
+.fixed{background-image:url(../images/cnv00054-2400.jpg);background-attachment:fixed;}
 }
 @media (min-width:1200px) {
 .fixed{background-image:url(../images/cnv00054-1600.jpg);background-attachment:fixed;}
