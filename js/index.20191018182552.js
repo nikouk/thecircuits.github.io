@@ -7,8 +7,8 @@ $(document).ready(function() {
 r=function(){dpi=window.devicePixelRatio;$('.js-4').attr('src', (dpi>1) ? 'images/circuits-3-470.jpg' : 'images/circuits-3-235.jpg');
 $('.js-5').attr('src', (dpi>1) ? 'images/29-03-19-6-472.jpg' : 'images/29-03-19-6-236.jpg');
 $('.js-6').attr('src', (dpi>1) ? 'images/29-03-19-9-472.jpg' : 'images/29-03-19-9-236.jpg');
-$('.js-7').attr('src', (dpi>1) ? 'images/pasted-image-78.png' : 'images/pasted-image-39.png');
-$('.js-8').attr('src', (dpi>1) ? 'images/pasted-image-82.png' : 'images/pasted-image-41.png');};
+$('.js-7').attr('src', (dpi>1) ? 'images/pasted-image-78-1.png' : 'images/pasted-image-39-1.png');
+$('.js-8').attr('src', (dpi>1) ? 'images/pasted-image-82-1.png' : 'images/pasted-image-41-1.png');};
 if(!window.HTMLPictureElement){r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(){$(this).click(function(){var t=this.hash.length>1?$('[name="'+this.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 var wl = new woolite();

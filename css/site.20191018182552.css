@@ -27,7 +27,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .pos{position:relative;margin-top:0;}
 .size{width:100%;min-width:960px;min-height:327px;}
 .cont{z-index:1;pointer-events:none;border:0;overflow:hidden;}
-.fixed{background-attachment:fixed;background-image:url(../images/cnv00054-960.jpg);background-color:rgb(184,200,210);background-repeat:no-repeat;background-position:50% 50%;background-size:cover;background-clip:padding-box;}
+.fixed{background-attachment:fixed;background-image:url(../images/cnv00054-960-1.jpg);background-color:rgb(184,200,210);background-repeat:no-repeat;background-position:50% 50%;background-size:cover;background-clip:padding-box;}
 .pos-2{position:relative;margin-top:136px;}
 .vis-2{display:block;vertical-align:top;}
 .section{min-width:960px;width:960px;margin-left:auto;margin-right:auto;}
@@ -74,12 +74,11 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .pos-14{position:relative;margin-left:76px;margin-top:0;}
 .size-11{min-width:810px;width:810px;min-height:97px;height:97px;}
 .cont-10{z-index:13;pointer-events:auto;}
-.font-4{font-family:"Helvetica Neue", sans-serif;font-size:19px;font-weight:700;font-style:italic;text-decoration:none;text-transform:none;color:rgb(220,50,47);background-color:initial;line-height:33px;letter-spacing:normal;text-shadow:none;}
-.font-5{font-family:"Helvetica Neue", sans-serif;font-size:19px;font-weight:400;font-style:italic;text-decoration:underline;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:32px;letter-spacing:normal;text-shadow:none;}
+.font-4{font-family:"Helvetica Neue", sans-serif;font-size:19px;font-weight:400;font-style:italic;text-decoration:underline;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:32px;letter-spacing:normal;text-shadow:none;}
 .pos-15{position:relative;margin-left:356px;margin-top:27px;}
 .size-12{min-width:247px;width:247px;min-height:48px;height:48px;}
 .cont-11{z-index:7;pointer-events:auto;}
-.font-6{font-family:"Helvetica Neue", sans-serif;font-size:25px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:43px;letter-spacing:normal;text-shadow:none;}
+.font-5{font-family:"Helvetica Neue", sans-serif;font-size:25px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:43px;letter-spacing:normal;text-shadow:none;}
 .pos-16{position:relative;margin-left:-170px;margin-top:94px;}
 .size-13{min-width:101px;width:101px;min-height:51px;}
 .pos-17{position:relative;margin-left:0;margin-top:4px;}
@@ -94,29 +93,28 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .img-10{left:0;width:41px;height:42px;top:4px;display:inline-block;}
 .pos-19{position:relative;margin-left:-217px;margin-top:184px;}
 .cont-14{z-index:16;pointer-events:auto;}
-.font-7{font-family:"Helvetica Neue", sans-serif;font-size:48px;font-weight:700;font-style:normal;text-decoration:underline;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:83px;letter-spacing:normal;text-shadow:none;}
+.font-6{font-family:"Helvetica Neue", sans-serif;font-size:48px;font-weight:700;font-style:normal;text-decoration:underline;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:83px;letter-spacing:normal;text-shadow:none;}
 .size-16{min-width:726px;width:726px;min-height:96px;height:96px;}
 .cont-15{z-index:9;pointer-events:auto;}
 .pos-20{position:relative;margin-left:117px;margin-top:52px;}
 .cont-16{z-index:17;pointer-events:auto;}
-.font-8{font-family:"Helvetica Neue", sans-serif;font-size:19px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:32px;letter-spacing:normal;text-shadow:none;}
+.font-7{font-family:"Helvetica Neue", sans-serif;font-size:19px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:32px;letter-spacing:normal;text-shadow:none;}
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
-.fixed{background-image:url(../images/cnv00054-1920.jpg);background-attachment:fixed;}
+.fixed{background-image:url(../images/cnv00054-1920-1.jpg);background-attachment:fixed;}
 }
 @media (min-width:960px) {
-.fixed{background-image:url(../images/cnv00054-1200.jpg);background-attachment:fixed;}
+.fixed{background-image:url(../images/cnv00054-1200-2.jpg);background-attachment:fixed;}
 }
 @media (min-width:960px) and (-webkit-min-device-pixel-ratio:2),(min-width:960px) and (min-resolution:192dpi) {
-.fixed{background-image:url(../images/cnv00054-2400.jpg);background-attachment:fixed;}
+.fixed{background-image:url(../images/cnv00054-2400-2.jpg);background-attachment:fixed;}
 }
 @media (min-width:1200px) {
-.fixed{background-image:url(../images/cnv00054-1600.jpg);background-attachment:fixed;}
+.fixed{background-image:url(../images/cnv00054-1600-1.jpg);background-attachment:fixed;}
 }
 @media (min-width:1600px) {
-.fixed{background-image:url(../images/cnv00054-2000.jpg);background-attachment:fixed;}
+.fixed{background-image:url(../images/cnv00054-2000-1.jpg);background-attachment:fixed;}
 }
 .size-17{width:100%;min-width:960px;min-height:140px;}
-.fixed-2{background-attachment:fixed;background-image:url(../images/cnv00054-960-1.jpg);background-color:rgb(184,200,210);background-repeat:no-repeat;background-position:50% 50%;background-size:cover;background-clip:padding-box;}
 .pos-21{position:relative;margin-top:42px;}
 .pos-22{position:relative;margin-top:26px;}
 .pos-23{position:relative;margin-left:42px;margin-top:30px;}
@@ -143,22 +141,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .cont-20{z-index:20;pointer-events:auto;}
 .cont-21{z-index:5;pointer-events:auto;}
 .cont-22{z-index:11;pointer-events:auto;}
-@media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
-.fixed-2{background-image:url(../images/cnv00054-1920-1.jpg);background-attachment:fixed;}
-}
-@media (min-width:960px) {
-.fixed-2{background-image:url(../images/cnv00054-1200-2.jpg);background-attachment:fixed;}
-}
-@media (min-width:960px) and (-webkit-min-device-pixel-ratio:2),(min-width:960px) and (min-resolution:192dpi) {
-.fixed-2{background-image:url(../images/cnv00054-2400-2.jpg);background-attachment:fixed;}
-}
-@media (min-width:1200px) {
-.fixed-2{background-image:url(../images/cnv00054-1600-1.jpg);background-attachment:fixed;}
-}
-@media (min-width:1600px) {
-.fixed-2{background-image:url(../images/cnv00054-2000-1.jpg);background-attachment:fixed;}
-}
 .pos-29{position:relative;margin-left:233px;margin-top:106px;}
 .size-24{min-width:495px;width:495px;min-height:75px;height:75px;}
-.font-9{font-family:"Helvetica Neue", sans-serif;font-size:30px;font-weight:500;font-style:normal;text-decoration:none;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:51px;letter-spacing:normal;text-shadow:none;}
+.font-8{font-family:"Helvetica Neue", sans-serif;font-size:30px;font-weight:500;font-style:normal;text-decoration:none;text-transform:none;color:rgb(0,0,0);background-color:initial;line-height:51px;letter-spacing:normal;text-shadow:none;}
 .pos-30{position:relative;margin-left:317px;margin-top:112px;}
