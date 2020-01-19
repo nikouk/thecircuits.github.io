@@ -18,7 +18,7 @@ $('.js-7').attr('src', (dpi>1) ? 'images/pasted-image-28.png' : 'images/pasted-i
 $('.js-8').attr('src', (dpi>1) ? 'images/spotify_icon_rgb_black-30.png' : 'images/spotify_icon_rgb_black-15.png');}}};
 if(!window.HTMLPictureElement){$(window).resize(r);r();}
 if(! document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) {
-$('.js-17').attr('src', 'images/us-uk_apple_music_badge_rgb-118.png');
+$('.js-17').attr('src', 'images/us-uk_apple_music_badge_rgb-118-1.png');
 $('.js-18').attr('src', 'images/apple_music_icon_blk-43.png');
 
 }
