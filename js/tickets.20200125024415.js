@@ -7,13 +7,13 @@ function em1(){var c="uifdjsdvjutcboeAjdmpve/dpn";var addr="mailto:";for(var i=0
 $(document).ready(function() {
 r=function(){if(thresholdPassed()){dpi=window.devicePixelRatio;if($(window).width()>=960){$('.js-107').attr('src', (dpi>1) ? 'images/asset-2-276.png' : 'images/asset-2-138.png');
 $('.js-109').attr('src', (dpi>1) ? 'images/max-elliott-copy-332.png' : 'images/max-elliott-copy-166.png');
-$('.js-110').attr('src', (dpi>1) ? 'images/layer-2-copy-5-1460.png' : 'images/layer-2-copy-5-730.png');
+$('.js-110').attr('src', (dpi>1) ? 'images/layer-2-copy-5-1460-1.png' : 'images/layer-2-copy-5-730-1.png');
 $('.js-111').attr('src', (dpi>1) ? 'images/pattern-copy-456.png' : 'images/pattern-copy-228.png');
 $('.js-112').attr('src', (dpi>1) ? 'images/pasted-image-78.png' : 'images/pasted-image-39.png');
 $('.js-113').attr('src', (dpi>1) ? 'images/pasted-image-82.png' : 'images/pasted-image-41.png');
 $('.js-114').attr('src', (dpi>1) ? 'images/spotify_icon_rgb_black-92.png' : 'images/spotify_icon_rgb_black-46.png');}else{$('.js-107').attr('src', (dpi>1) ? 'images/asset-2-116.png' : 'images/asset-2-58.png');
 $('.js-109').attr('src', (dpi>1) ? 'images/max-elliott-copy-110.png' : 'images/max-elliott-copy-55.png');
-$('.js-110').attr('src', (dpi>1) ? 'images/layer-2-copy-5-488.png' : 'images/layer-2-copy-5-244.png');
+$('.js-110').attr('src', (dpi>1) ? 'images/layer-2-copy-5-488-1.png' : 'images/layer-2-copy-5-244-1.png');
 $('.js-111').attr('src', (dpi>1) ? 'images/pattern-copy-152.png' : 'images/pattern-copy-76.png');
 $('.js-112').attr('src', (dpi>1) ? 'images/pasted-image-26.png' : 'images/pasted-image-13.png');
 $('.js-113').attr('src', (dpi>1) ? 'images/pasted-image-28.png' : 'images/pasted-image-14.png');
